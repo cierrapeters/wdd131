@@ -1,6 +1,9 @@
+*{
+    font-family: Arial;
+}
 header{
     background-color: green;
-
+    border: solid black;
 }
 
 nav{
@@ -9,6 +12,19 @@ nav{
     color: black
 }
 
-nav hover{
-    color:yellowgreen
+nav:hover{
+    color:white
+}
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color:white;
+    font-family:Tahoma;
+    font-size: 32px;
+}
+h2{
+    color:darkgreen;
+    text-transform:uppercase;
 }
