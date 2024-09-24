@@ -1,0 +1,14 @@
+header{
+    background-color: green;
+
+}
+
+nav{
+    background-color: darkgreen;
+    display: flex;
+    color: black
+}
+
+nav hover{
+    color:yellowgreen
+}
