@@ -15,8 +15,10 @@ nav{
 nav:hover{
     color:white
 }
-body{
+#main{
     background-color: blanchedalmond;
+    height: 1000px;
+    overflow:scroll;
 }
 
 h1{
